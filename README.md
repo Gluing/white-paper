@@ -21,11 +21,11 @@ A Blockchain infrastructure faithful to the essence of the technology : open sou
 * A service that is accessible and usable by the general public, with a focus on optimized user experiences around everyday man-machine interfaces: web and mobile applications.
 * An economic model of the Gluing Blockchain native token offering investors a clear, fair and directly correlated value creation path to the success of the project;
 
-These principles are implemented thanks to the GLUING Blockchain which allows the storage and the secure transmission of NFTs.
+These principles are implemented thanks to the GLUING Blockchain which allows the storage and the secure transmission of NFTs on many blockchains.
 
 ## Use case: Offer a personalized NFT
 
-Thanks to the Gluing application, import your image, select a limited template, and receive your personalized NFT or transmit it directly to the person of your choice, even in physical version!
+Thanks to the Gluing application, import your image, select a limited template, and receive your personalized NFT or transmit it directly to your friend !
 
 ## Development ecosystem
 
@@ -43,10 +43,11 @@ The Solidity language will be used to manage smart contracts. Smart contracts al
 
 The GLuing blockchain uses NFTs as "memory media". Before creating a custom NFT, the user must provision his GLUING Coin wallet and must purchase a Gluing compatible NFT.
 
-From a Gluing Blockchain perspective, a capsule creation consists of:
+From a Gluing Blockchain perspective, a NFT creation consists of:
 
 * Provisioning the servers that host the data to ensure they are paid for renting the storage space over time.
 * Customize the NFT by sending an image and selecting a template;
+* Select the destination blockchain
 * Validate and create the NFT;
 * Sending the NFT to the chosen recipient;
 

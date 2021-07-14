@@ -4,7 +4,7 @@
 
 Gluing vous permet de créer de fabuleux NFT à partir de votre image ou photo en sélectionnant un modèle, proposé par nos artistes, qui saura la sublimer.
 
-Créez vos souvenirs sur la blockchain et gardez les précieusement ou offrez les comme cadeaux !
+Créez vos souvenirs sur une blockchain et gardez les précieusement ou offrez les comme cadeaux !
 
 Les NFTs générés seront dans un premier temps stockés en clair sur la blockchain, il ne sera pas possible de créer un NFT privé dès le départ.
 
@@ -21,11 +21,11 @@ Une infrastructure Blockchain fidèle à l’essence de la technologie à savoir
 * Un service accessible et utilisable par le grand public en faisant la part belle aux expériences utilisateurs optimisées autour d’interfaces homme-machine du quotidien : les applications web et mobiles.
 * Un modèle économique du Token natif de la Blockchain Gluing proposant aux investisseurs une trajectoire de création de valeur claire, équitable et directement corrélée au succès du projet ;
 
-Ces principes sont mis en oeuvre grâce à la Blockchain GLUING qui permet le stockage et la transmission sécurisée des NFTs.
+Ces principes sont mis en oeuvre grâce à la Blockchain GLUING qui permet le stockage et la transmission sécurisée des NFTs sur d'autres Blockchains.
 
 ## Cas d’usage : Offrir un NFT personnalisé
 
-Grâce à l'application Gluing, importez votre image, sélectionnez un template limité, et recevez votre NFT personnalisé ou transmettez le directement à la personne de votre choix, même en version physique !
+Grâce à l'application Gluing, importez votre image, sélectionnez un template limité et la blockchain de destination, et recevez votre NFT personnalisé ou transmettez le directement à la personne de votre choix !
 
 ## Écosystème de développement
 
@@ -43,10 +43,11 @@ Le langage Solidity sera utilisé pour gérer les smart contracts. Les smarts co
 
 La Blockchain GLuing utilise des NFT comme “support de souvenirs”. Préalablement à la création d'un NFT personnalisé, l’utilisateur doit se provisionner son wallet de GLUING Coin et doit acheter un NFT compatible Gluing.
 
-De point de vue de la Blockchain Gluing, une création de capsule consiste à :
+De point de vue de la Blockchain Gluing, une création de nft consiste à :
 
-* Provisionner les serveurs qui hébergent les données afin d’assurer leur rémunération pour la location de l’espace de stockage sur le temps long.
+* Provisionner les serveurs qui hébergent les données afin d’assurer leur rémunération pour la location de l’espace de stockage sur le long terme.
 * Personnaliser le NFT en envoyant un image et sélectionnant un template ;
+* Sélectionner la blockchain de destination
 * Validation et création du NFT  ;
 * Envoi du NFT au destinateur choisi ;
 
@@ -61,7 +62,7 @@ Les premiers modèles de NFT seront designées par Gluing et une place de march�
 
 ## Modèle Économique
 
-Le GLUING est le jeton de la Blockchain Gluing. Les transactions effectuées sur la blockchain Gluing sont réglées en GLUING à savoir la création de NFT
+Le GLUING est le jeton de la Blockchain Gluing. Les transactions effectuées sur la blockchain Gluing sont réglées en GLUING à savoir la création de NFT.
 
 Le volume de demande pour des NFT d’une part, et pour leur stockage dans le temps d’autre part, sont les deux leviers d’appréciation du GLUING sur les marchés secondaires.
 
