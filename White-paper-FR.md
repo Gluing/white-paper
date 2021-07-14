@@ -69,7 +69,7 @@ Le volume de demande pour des NFT d’une part, et pour leur stockage dans le te
 
 * Symbole: "GLUING"
 * Total Supply: 777 000 000 GLUING (777 millions)
-* Prix à l’ICO: 0,025 € / GLUING
+* Prix TGE: 0,03 USD / GLUING
 
 ### Répartition des Tokens
 
@@ -77,7 +77,7 @@ Coming soon
 
 ### Règles de libération des Tokens
 
-\*:TGE: Aout 2021
+\*:TGE: Aout/Septembre 2021
 \*:Listing: Octobre 2021
 
 Tous les détails très prochainement !

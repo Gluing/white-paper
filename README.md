@@ -67,9 +67,9 @@ The volume of demand for NFTs on the one hand, and for their storage over time o
 
 ### The Gluing Token
 
-* Symbol: "GLUING
+* Symbol: "GLUING"
 * Total Supply: 777 000 000 GLUING (777 million)
-* ICO price: 0,025 € / GLUING
+* TGE price: 0,03 USD / GLUING
 
 ### Token Distribution
 
@@ -77,7 +77,7 @@ Coming soon
 
 ### Token Release Rules
 
-\*TGE: August 2021
-\*Listing: October 2021
+\*TGE: Aug/Sep 2021
+\*Listing: Oct 2021
 
 All the details very soon!
