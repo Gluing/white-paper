@@ -6,9 +6,13 @@ Gluing allows you to create fabulous NFT from your image or photo by selecting a
 
 Create your memories on the blockchain and keep them preciously or offer them as gifts!
 
-The generated NFTs will be initially stored in clear on the blockchain, it will not be possible to create a private NFT from the start.
+<p align="center">
+  <a href="https://gluing.io">
+    <img alt="GLUING" src="https://gluing.io/wp-content/uploads/2021/08/Gluing-desc.png" width="200" />
+  </a>
+</p>
 
-The "public" NFTs will be validated by the Gluing team according to a charter of use of the service (no pornographic pictures, etc). This will be possible thanks to a smart-contract, which will wait for validation before generating the NFT and transferring the funds.
+The NFTs will be validated by the Gluing team according to a charter of use of the service (no pornographic pictures, etc). This will be possible thanks to a smart-contract, which will wait for validation before generating the NFT and transferring the funds.
 
 An exclusive partnership will also allow us to offer an optional holographic physical version of your NFT...
 
@@ -25,7 +29,7 @@ These principles are implemented thanks to the GLUING Blockchain which allows th
 
 ## Use case: Offer a personalized NFT
 
-Thanks to the Gluing application, import your image, select a limited template, and receive your personalized NFT or transmit it directly to your friend !
+Thanks to the Gluing application, import your image, select a limited template, choose destination blockchain and receive your personalized NFT or transmit it directly to your friend !
 
 ## Development ecosystem
 
@@ -69,7 +73,7 @@ The volume of demand for NFTs on the one hand, and for their storage over time o
 ### The Gluing Token
 
 * Symbol: "GLUING"
-* Total Supply: 777 000 000 GLUING (777 million)
+* Total Supply: 777 000 000 GLUING
 * TGE price: 0,03 USD / GLUING
 
 ### Token Distribution
@@ -78,7 +82,7 @@ Coming soon
 
 ### Token Release Rules
 
-\*TGE: Aug/Sep 2021
-\*Listing: Oct 2021
+\*TGE: Sep/Oct 2021 (Glubbers airdrop, Airdrops, Presales)
+\*Listing: Nov 2021
 
 All the details very soon!
