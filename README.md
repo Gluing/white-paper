@@ -7,8 +7,7 @@ Gluing allows you to create fabulous NFT from your image or photo by selecting a
 Create your memories on the blockchain and keep them preciously or offer them as gifts!
 
 <p align="center">
-  <a href="https://gluing.io">
-    <img alt="GLUING" src="https://gluing.io/wp-content/uploads/2021/08/Gluing-desc.png" width="200" />
+    <img alt="GLUING" src="https://gluing.io/wp-content/uploads/2021/08/Gluing-desc.png" width="666" />
   </a>
 </p>
 
